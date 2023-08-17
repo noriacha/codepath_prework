@@ -18,10 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Screen Recording 2023-08-16 at 4 56 52 PM](https://github.com/noriacha/codepath_prework/assets/118619549/12a5d99e-720a-4f7e-8ad3-ae60fe44bc92)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= '![Screen Recording 2023-08-16 at 4 56 52 PM](https://github.com/noriacha/codepath_prework/assets/118619549/3d35bf88-58e6-497b-a35a-b32680098775)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-![Screen Recording 2023-08-16 at 4 56 52 PM](https://github.com/noriacha/codepath_prework/assets/118619549/3d35bf88-58e6-497b-a35a-b32680098775)
+
 
 GIF created with Veed.io
 <!-- Recommended tools:
