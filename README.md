@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://giphy.com/gifs/qgyUXAPc2EBKUcqYZz
 <img src= 'https://giphy.com/gifs/qgyUXAPc2EBKUcqYZz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -60,8 +60,13 @@ Tik Tok:
     -Video Editing
     -Saving Drafts 
 
-Potential App Idea:
+Potential App Idea 1:
+ 
+ Design a memory game where users need to match pairs of cards. You can have different levels of difficulty and track the number of moves and time taken to complete the game.
 
+Potential App Idea 2:
+
+Develop a trivia quiz app with different categories of questions. Users can choose a category and answer multiple-choice questions. You can keep track of their scores and even implement a high-score system.
     
 
 ## License
