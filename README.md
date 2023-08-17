@@ -23,7 +23,7 @@ https://giphy.com/gifs/qgyUXAPc2EBKUcqYZz
 <!-- Replace this with whatever GIF tool you used! -->
 
 
-GIF created with Veed.io
+GIF created with ezgif.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
