@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= '![Screen Recording 2023-08-16 at 4 56 52 PM](https://github.com/noriacha/codepath_prework/assets/118619549/3d35bf88-58e6-497b-a35a-b32680098775)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://imgur.com/a/W8KeC4W' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
