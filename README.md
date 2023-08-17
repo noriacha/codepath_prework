@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= '' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://github.com/noriacha/codepath_prework/assets/118619549/efe7f337-bd3a-4b52-a539-b9c9b86acfaf.gif
+<img src= 'https://giphy.com/gifs/qgyUXAPc2EBKUcqYZz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![ezgif com-video-to-gif (1)](https://github.com/noriacha/codepath_prework/assets/118619549/49010441-7b13-4e22-aecb-1a3804279b64)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
