@@ -18,9 +18,12 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= '![](https://imgur.com/a/h2j0juj.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://imgur.com/a/h2j0juj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![ezgif com-video-to-gif (1)](https://github.com/noriacha/codepath_prework/assets/118619549/49010441-7b13-4e22-aecb-1a3804279b64)
+
+
+![](https://imgur.com/a/h2j0juj.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
