@@ -13,14 +13,15 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
  
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/gifs/nUDXVhKkxmraVKf2KJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Screen Recording 2023-08-16 at 4 56 52 PM](https://github.com/noriacha/codepath_prework/assets/118619549/12a5d99e-720a-4f7e-8ad3-ae60fe44bc92)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Veed.io and posted it on giphy. 
+GIF created with Veed.io
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
